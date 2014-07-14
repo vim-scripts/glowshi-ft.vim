@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4986
+
+glowshi-ft.vim is a Vim plugin to improve movement of f/t. The basic behavior is the same, but when there are multiple targets in the current line, you are able to choose and shift to candidates of position which glow.
